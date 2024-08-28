@@ -55,3 +55,23 @@ git commit -m "Initial Commit”
 
 
 git log
+git commit -am "Initial Commit"
+git log
+git status
+git commit -m "Initial Commit"
+git log
+git commit -am "Initial Commit”
+git log
+git status
+git commit
+git commit -am "Initial Commit”
+git commit master
+git commit master
+ls
+git add .bash_history
+git commit -m "Initial Commit”
+git commit
+git commit -am "Initial Commit"
+git init
+git add .
+git commit

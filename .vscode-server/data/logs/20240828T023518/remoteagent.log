@@ -1,0 +1,150 @@
+2024-08-28 02:35:18.637 [info] 
+
+
+
+
+2024-08-28 02:35:18.649 [info] Extension host agent started.
+2024-08-28 02:35:18.698 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tommyjojoshwartz/.vscode-server/extensions
+2024-08-28 02:35:18.710 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tommyjojoshwartz/.vscode-server/extensions
+2024-08-28 02:35:18.753 [info] [<unknown>][376f137b][ManagementConnection] New connection established.
+2024-08-28 02:35:18.791 [info] [<unknown>][be0f548f][ExtensionHostConnection] New connection established.
+2024-08-28 02:35:18.878 [info] [<unknown>][be0f548f][ExtensionHostConnection] <1382> Launched Extension Host Process.
+2024-08-28 02:37:44.538 [info] [<unknown>][376f137b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:40:18.651 [info] New EH opened, aborting shutdown
+2024-08-28 02:40:18.654 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/server/node/server.main.js:190:6369)
+    at process.emit (node:events:531:35)
+2024-08-28 02:41:11.807 [info] [<unknown>][a4e7c4ae][ManagementConnection] New connection established.
+2024-08-28 02:41:11.851 [info] [<unknown>][b4f369ec][ExtensionHostConnection] New connection established.
+2024-08-28 02:41:11.857 [info] [<unknown>][b4f369ec][ExtensionHostConnection] <2056> Launched Extension Host Process.
+2024-08-28 02:41:13.872 [error] CodeExpectedError: Could not find pty on pty host
+    at k.U (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:30837)
+    at k.updateTitle (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26037)
+    at D.<computed> (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21308)
+    at Object.call (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5378)
+    at c.s (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5506)
+    at c.q (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4947)
+    at w.value (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4247)
+    at i.B (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at i.fire (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.$e (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:25:27395)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-08-28 02:42:57.536 [info] [<unknown>][a4e7c4ae][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:43:00.374 [info] [<unknown>][1a18f8e3][ManagementConnection] New connection established.
+2024-08-28 02:43:00.410 [info] [<unknown>][465c092c][ExtensionHostConnection] New connection established.
+2024-08-28 02:43:00.416 [info] [<unknown>][465c092c][ExtensionHostConnection] <2198> Launched Extension Host Process.
+2024-08-28 02:43:02.667 [error] CodeExpectedError: Could not find pty on pty host
+    at k.U (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:30837)
+    at k.updateTitle (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26037)
+    at D.<computed> (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21308)
+    at Object.call (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5378)
+    at c.s (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5506)
+    at c.q (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4947)
+    at w.value (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4247)
+    at i.B (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at i.fire (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.$e (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:25:27395)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-08-28 02:45:02.867 [info] [<unknown>][1a18f8e3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:45:07.085 [info] [<unknown>][f53daa92][ManagementConnection] New connection established.
+2024-08-28 02:45:07.086 [info] [<unknown>][16fb1f4f][ExtensionHostConnection] New connection established.
+2024-08-28 02:45:07.090 [info] [<unknown>][16fb1f4f][ExtensionHostConnection] <2614> Launched Extension Host Process.
+2024-08-28 02:45:42.442 [info] [<unknown>][f53daa92][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:45:45.329 [info] [<unknown>][3f0b1d6d][ExtensionHostConnection] New connection established.
+2024-08-28 02:45:45.333 [info] [<unknown>][3f0b1d6d][ExtensionHostConnection] <2802> Launched Extension Host Process.
+2024-08-28 02:45:45.341 [info] [<unknown>][61aaee5f][ManagementConnection] New connection established.
+2024-08-28 02:45:47.568 [error] CodeExpectedError: Could not find pty on pty host
+    at k.U (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:30837)
+    at k.updateTitle (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26037)
+    at D.<computed> (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21308)
+    at Object.call (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5378)
+    at c.s (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5506)
+    at c.q (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4947)
+    at w.value (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4247)
+    at i.B (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at i.fire (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.$e (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:25:27395)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-08-28 02:46:11.926 [info] [<unknown>][be0f548f][ExtensionHostConnection] <1382> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 02:46:24.182 [info] [<unknown>][61aaee5f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:46:29.026 [info] [<unknown>][2ee73b50][ManagementConnection] New connection established.
+2024-08-28 02:46:29.039 [info] [<unknown>][09d66f36][ExtensionHostConnection] New connection established.
+2024-08-28 02:46:29.043 [info] [<unknown>][09d66f36][ExtensionHostConnection] <2950> Launched Extension Host Process.
+2024-08-28 02:47:04.544 [info] [<unknown>][2ee73b50][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:47:07.462 [info] [<unknown>][bf0d89b3][ManagementConnection] New connection established.
+2024-08-28 02:47:07.498 [info] [<unknown>][c749d4f9][ExtensionHostConnection] New connection established.
+2024-08-28 02:47:07.504 [info] [<unknown>][c749d4f9][ExtensionHostConnection] <3115> Launched Extension Host Process.
+2024-08-28 02:47:09.711 [error] CodeExpectedError: Could not find pty on pty host
+    at k.U (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:30837)
+    at k.updateTitle (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26037)
+    at D.<computed> (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21308)
+    at Object.call (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5378)
+    at c.s (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5506)
+    at c.q (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4947)
+    at w.value (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4247)
+    at i.B (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at i.fire (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.$e (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:25:27395)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-08-28 02:47:35.437 [info] [<unknown>][bf0d89b3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:47:37.880 [info] [<unknown>][a5ad3080][ManagementConnection] New connection established.
+2024-08-28 02:47:37.914 [info] [<unknown>][7ece963f][ExtensionHostConnection] New connection established.
+2024-08-28 02:47:37.918 [info] [<unknown>][7ece963f][ExtensionHostConnection] <3257> Launched Extension Host Process.
+2024-08-28 02:48:00.605 [info] [<unknown>][b4f369ec][ExtensionHostConnection] <2056> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 02:48:25.317 [info] [<unknown>][a5ad3080][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:50:07.217 [info] [<unknown>][465c092c][ExtensionHostConnection] <2198> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 02:50:45.467 [info] [<unknown>][16fb1f4f][ExtensionHostConnection] <2614> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 02:50:56.179 [info] [<unknown>][e389a28a][ExtensionHostConnection] New connection established.
+2024-08-28 02:50:56.180 [info] [<unknown>][3a847596][ManagementConnection] New connection established.
+2024-08-28 02:50:56.184 [info] [<unknown>][e389a28a][ExtensionHostConnection] <3412> Launched Extension Host Process.
+2024-08-28 02:50:58.331 [error] CodeExpectedError: Could not find pty on pty host
+    at k.U (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:30837)
+    at k.updateTitle (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26037)
+    at D.<computed> (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21308)
+    at Object.call (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5378)
+    at c.s (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5506)
+    at c.q (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4947)
+    at w.value (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4247)
+    at i.B (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at i.fire (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.$e (/home/tommyjojoshwartz/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/platform/terminal/node/ptyHostMain.js:25:27395)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-08-28 02:51:29.234 [info] [<unknown>][3f0b1d6d][ExtensionHostConnection] <2802> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 02:52:07.656 [info] [<unknown>][09d66f36][ExtensionHostConnection] <2950> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 02:52:23.775 [info] [<unknown>][3a847596][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 02:52:37.977 [info] [<unknown>][c749d4f9][ExtensionHostConnection] <3115> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 02:55:56.340 [info] [<unknown>][7ece963f][ExtensionHostConnection] <3257> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 03:02:42.409 [info] [<unknown>][f4b59c0f][ExtensionHostConnection] New connection established.
+2024-08-28 03:02:42.411 [info] [<unknown>][a49658bb][ManagementConnection] New connection established.
+2024-08-28 03:02:42.418 [info] [<unknown>][f4b59c0f][ExtensionHostConnection] <3863> Launched Extension Host Process.
+2024-08-28 03:06:23.307 [info] [<unknown>][a49658bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 03:06:46.467 [info] [<unknown>][2db74db4][ExtensionHostConnection] New connection established.
+2024-08-28 03:06:46.473 [info] [<unknown>][2db74db4][ExtensionHostConnection] <4127> Launched Extension Host Process.
+2024-08-28 03:06:46.513 [info] [<unknown>][553a2997][ManagementConnection] New connection established.
+2024-08-28 03:06:59.352 [info] [<unknown>][553a2997][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 03:07:01.483 [info] [<unknown>][2068d330][ManagementConnection] New connection established.
+2024-08-28 03:07:01.484 [info] [<unknown>][c4e9fa19][ExtensionHostConnection] New connection established.
+2024-08-28 03:07:01.488 [info] [<unknown>][c4e9fa19][ExtensionHostConnection] <4278> Launched Extension Host Process.
+2024-08-28 03:07:08.395 [info] [<unknown>][2068d330][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 03:07:10.496 [info] [<unknown>][f975c36a][ManagementConnection] New connection established.
+2024-08-28 03:07:10.530 [info] [<unknown>][b378a41e][ExtensionHostConnection] New connection established.
+2024-08-28 03:07:10.535 [info] [<unknown>][b378a41e][ExtensionHostConnection] <4423> Launched Extension Host Process.
+2024-08-28 03:07:15.073 [info] [<unknown>][f975c36a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-28 03:07:17.043 [info] [<unknown>][4d875887][ManagementConnection] New connection established.
+2024-08-28 03:07:17.075 [info] [<unknown>][72f87e2d][ExtensionHostConnection] New connection established.
+2024-08-28 03:07:17.079 [info] [<unknown>][72f87e2d][ExtensionHostConnection] <4561> Launched Extension Host Process.
+2024-08-28 03:07:42.587 [info] [<unknown>][e389a28a][ExtensionHostConnection] <3412> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 03:11:46.567 [info] [<unknown>][f4b59c0f][ExtensionHostConnection] <3863> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 03:12:01.579 [info] [<unknown>][2db74db4][ExtensionHostConnection] <4127> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 03:12:10.585 [info] [<unknown>][c4e9fa19][ExtensionHostConnection] <4278> Extension Host Process exited with code: 0, signal: null.
+2024-08-28 03:12:17.190 [info] [<unknown>][b378a41e][ExtensionHostConnection] <4423> Extension Host Process exited with code: 0, signal: null.

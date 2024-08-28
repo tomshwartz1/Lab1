@@ -1,0 +1,17 @@
+2024-08-28 03:07:03.409 [info] [main] Log level: Info
+2024-08-28 03:07:03.409 [info] [main] Validating found git in: "git"
+2024-08-28 03:07:03.409 [info] [main] Using git "2.34.1" from "git"
+2024-08-28 03:07:03.409 [info] [Model][doInitialScan] Initial repository scan started
+2024-08-28 03:07:03.409 [info] > git rev-parse --show-toplevel [4ms]
+2024-08-28 03:07:03.409 [info] fatal: this operation must be run in a work tree
+2024-08-28 03:07:03.411 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-28 03:07:03.411 [info] fatal: this operation must be run in a work tree
+2024-08-28 03:07:03.416 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-28 03:07:03.416 [info] fatal: this operation must be run in a work tree
+2024-08-28 03:07:03.421 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-28 03:07:03.421 [info] fatal: this operation must be run in a work tree
+2024-08-28 03:07:03.426 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-28 03:07:03.426 [info] fatal: this operation must be run in a work tree
+2024-08-28 03:07:03.431 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-28 03:07:03.431 [info] fatal: this operation must be run in a work tree
+2024-08-28 03:07:03.438 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
